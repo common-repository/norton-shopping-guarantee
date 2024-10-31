@@ -1,0 +1,4 @@
+*** Norton Shopping Guarantee with Package Protection ***
+
+2024-04-17 - version 1.0.0
+* Initial release
